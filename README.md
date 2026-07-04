@@ -7,8 +7,11 @@
 </a>
 
 <br/>
+
 ![Batch](https://img.shields.io/badge/Batch-2028-4C1D95?style=for-the-badge)
 ![College](https://img.shields.io/badge/College-MNNIT%20Allahabad-7C3AED?style=for-the-badge)
+ 
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://piyushchundawat.dev)
