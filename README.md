@@ -21,8 +21,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PiyushChundawat&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/PiyushChundawat?style=for-the-badge&color=7c3aed&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/PiyushChundawat?style=for-the-badge&color=6d28d9&label=STARS)
 
 </div>
@@ -159,14 +157,6 @@ Built a full-stack civic-tech platform supporting the entire grievance lifecycle
 </div>
 
 ---
-
-### 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushChundawat&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
-
-</div>
 
 ---
 
