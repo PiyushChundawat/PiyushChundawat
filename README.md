@@ -147,14 +147,6 @@ Built a full-stack civic-tech platform supporting the entire grievance lifecycle
 
 ---
 
-### 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PiyushChundawat&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-
-</div>
-
 ---
 
 ---
